@@ -9,7 +9,8 @@
   ],
   "contact": {
     "homepage": "https://modrinth.com/user/chrissi",
-    "sources": "https://github.com/chrissitxt/chrissi-nightvision"
+    "sources": "https://github.com/chrissitxt/chrissi-nightvision",
+    "issues": "https://github.com/chrissitxt/chrissi-nightvision/issues"
   },
   "license": "Unlicense",
   "icon": "assets/chrissi-night-vision/icon.png",
